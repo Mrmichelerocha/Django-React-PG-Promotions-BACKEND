@@ -25,7 +25,7 @@ Foi pedido que se encontra-se um cliente da região e ajudasse seu negocio.
 - Adicionar produto 
 - Adicionar categoria
 - Area do usuario 
-- Cadastro de clentes 
+- Cadastro de clientes 
 - Cadastro de superusuarios 
 
 
